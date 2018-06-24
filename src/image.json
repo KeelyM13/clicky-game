@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "cartwheel.jpg"
+  },
+  {
+    "id": 2,
+    "image": "cavatappi.jpg"   
+  },
+  {
+    "id": 3,
+    "image": "elbow.jpg" 
+  },
+  {
+    "id": 4,
+    "image": "farfalle.jpg" 
+  },
+  {
+    "id": 5,
+    "image": "fusilli.jpg" 
+  },
+  {
+    "id": 6,
+    "image": "gemelli.jpg" 
+  },
+  {
+    "id": 7,
+    "image": "lasagna.jpg"
+  },
+  {
+    "id": 8,
+    "image": "macaroni.jpg"   
+  },
+  {
+    "id": 9,
+    "image": "penne.jpg" 
+  },
+  {
+    "id": 10,
+    "image": "shell.jpg" 
+  },
+  {
+    "id": 11,
+    "image": "spaghetti.jpg" 
+  },
+  {
+    "id": 12,
+    "image": "tortellini.jpg" 
+  }
+]
